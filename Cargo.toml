@@ -1,0 +1,16 @@
+[package]
+edition = "2021"
+license = "MIT"
+name    = "zed_psalm"
+publish = false
+version = "0.0.1"
+
+[lib]
+crate-type = ["cdylib"]
+path       = "src/psalm.rs"
+
+[dependencies]
+log                = "0.4.21"
+tracing            = "0.1.40"
+tracing-subscriber = "0.3.18"
+zed_extension_api  = "0.1.0"
