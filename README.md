@@ -1,5 +1,10 @@
 # psalm Zed Extension
 
+[Psalm](https://psalm.dev/) is a static analysis tool for PHP that helps detect
+type errors, bugs, and code quality issues without running the code. It
+improves code reliability and maintainability by enforcing type safety and
+identifying potential problems early in development.
+
 ## Configuration
 
 By default, the psalm.xml file is required to be in the root of the workspace.
