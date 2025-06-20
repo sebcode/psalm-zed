@@ -1,5 +1,5 @@
 authors        = ["sebcode"]
-description    = "Psalm support for Zed"
+description    = "Zed extension for Psalm, a static analysis tool for PHP"
 id             = "psalm"
 name           = "Psalm"
 repository     = "https://github.com/sebcode/psalm-zed"
