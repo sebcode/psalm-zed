@@ -4,7 +4,7 @@ id             = "psalm"
 name           = "Psalm"
 repository     = "https://github.com/sebcode/psalm-zed"
 schema_version = 1
-version        = "0.0.1"
+version        = "0.0.2"
 
 [language_servers.psalm]
 language          = "PHP"
