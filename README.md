@@ -32,9 +32,7 @@ It can also be configured like this:
 {
   "lsp": {
     "psalm": {
-      "settings": {
-        "binary": "vendor/bin/psalm"
-      }
+       "binary": {"path": "vendor/bin/psalm" }
     }
   }
 }
